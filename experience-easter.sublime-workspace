@@ -1,0 +1,253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tea",
+				"Teambuilders"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 272,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/harvest.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/community-cinema.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/coffee-morning.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/navbar.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/portfolio.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/_includes/header.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/index.html",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/kidzclub.md",
+		"/Users/antluxton/Sites/dunfermlinewest.github.io/smallgroups.md",
+		"/C/Users/Luxtons/Documents/slides/slides.md",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/smallgroups.md",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/worship-services.md",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/index.html",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes/header-icon.html",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_layouts/services.html",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes/youtubeplayer.html",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/youtubeplayer.html",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_config.yml",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/.gitignore",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes/portfolio.html",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_layouts/page.html",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes/navbar.html",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/_includes/navbar-main.html",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/siteConfig.ps1",
+		"/C/Users/Luxtons/Documents/dunfermlinewest.github.io/jekylHelper.bat"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "experience-easter.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 359.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

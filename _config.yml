@@ -1,0 +1,15 @@
+# Site settings
+title: Experiece Easter
+email: anthony.luxton@dunfermlinewest.org
+description: Testing
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://easter.westfife.church" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
